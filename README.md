@@ -6,6 +6,13 @@ detected by background differencing and turned into collision geometry. Marbles
 drop continuously from the top center and bounce/roll off the detected objects
 with real 2D physics until they leave the play area.
 
+## Disclaimer
+
+This project is provided "as is", without warranty of any kind. By using this
+software, you agree that you do so at your own risk. The authors and
+contributors take no liability for any damages, losses, injuries, or other
+claims arising from use, misuse, or inability to use this project.
+
 ## How it works
 
 ```
@@ -174,3 +181,5 @@ MarbleRun/
     ├── physics.py       pymunk world, marbles, static object outlines
     └── display.py       pygame fullscreen rendering + overlays
 ```
+
+Thank you!
